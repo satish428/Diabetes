@@ -53,6 +53,10 @@ def main():
     BMI = st.text_input('BMI value')
     DiabetesPedigreeFunction = st.text_input('Diabetes Pedigree Function value')
     Age = st.text_input('Age of the person')
+
+st.write(st.__version__)
+
+st.write(np.__version__)
     
     
     # code for Prediction
