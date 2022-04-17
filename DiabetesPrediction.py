@@ -1,13 +1,5 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Apr 17 14:08:57 2022
 
-@author: SATISH PANDEY
-"""
 
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Mar 29 20:44:29 2022
 
 @author: SATISH PANDEY
 """
