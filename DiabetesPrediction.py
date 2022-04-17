@@ -16,8 +16,6 @@ import numpy as np
 import pickle
 import streamlit as st
 
-# loading the saved model
-loaded_model = pickle.load(open('D:/dia/model/trained_model.sav', 'rb'))
 
 
 
